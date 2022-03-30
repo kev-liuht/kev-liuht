@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kev-liuht
+- 👋 Hi, I’m Kevin
 - 📫 Reach me at email: kevinliu020618gmail.com
 
 <!---
