@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kevin
-- 📫 Reach me at email: kevinliu020618gmail.com
+- 📫 Reach me at email: kev-liu@outlook.com
 
 <!---
 kev-liuht/kev-liuht is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
